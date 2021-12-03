@@ -23,6 +23,6 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 ## ⚡ Fun facts
 
 - 📸  I love photography, you can check my non-profit hobbyst work on [Unsplash](https://unsplash.com/@_staticvoid)
-- 🥋  I have a brown belt no Brazilian Jiu Jitsu [IBJJF](https://ibjjf.com)
+- 🥋  I have a brown belt training since 2010 Brazilian Jiu Jitsu [IBJJF](https://ibjjf.com)
 - I compiled a [list of useful stuff to know when working with me](https://gist.github.com/diegolisboajj/7d688dc5ab3b0981522ca7ca7c07a5b4)
 
