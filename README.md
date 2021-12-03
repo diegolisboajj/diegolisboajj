@@ -16,7 +16,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 
 - 🔗 My business Site [https://soacheiofertas.com.br](https:www.soacheiofertas.com.br) where all my social networks are located! You can reach me anywhere over there!
 - 💬 [Telegram](https://t.me/soacheiofertas)
-- 💬 [Instagram](https://instagram.com/soacheiofertas)
+- 📷 [Instagram](https://instagram.com/soacheiofertas)
 - 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCgiiE6LLXOfmt9XEp6HVFow)
 - 📧 You can also send me an [email](mailto:diego.giglioli@gmail.com)
 
