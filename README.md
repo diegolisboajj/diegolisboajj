@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/khaosdoctor/blog-assets/master/images/Screen%20Shot%202021-09-03%20at%2019.26.35.png" />
-
 ## Hi there 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/soacheiofertas)
