@@ -1,4 +1,4 @@
-<img src="https://github.com/diegolisboajj/diegolisboajj/blob/master/DIEGO%20LISBOA.png" />
+<img src="https://github.com/diegolisboajj/diegolisboajj/blob/master/DIEGO%20LISBOA.png" width="800/>
 
 ## Hi there 👋
 
