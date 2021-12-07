@@ -1,4 +1,4 @@
-<img src="https://github.com/diegolisboajj/diegolisboajj/blob/master/capa.png" height="400"/>
+<img src="https://github.com/diegolisboajj/diegolisboajj/blob/master/capa.png"/>
 
 ## Hi there 👋
 
