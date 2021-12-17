@@ -1,5 +1,3 @@
-<img src="https://github.com/diegolisboajj/diegolisboajj/blob/master/capa.png"/>
-
 ## Hi there 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/_staticvoid?label=Follow)](https://twitter.com/soacheiofertas)
