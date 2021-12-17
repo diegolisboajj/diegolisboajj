@@ -31,7 +31,7 @@ I am the founder of Só Achei Ofertas(https://soacheiofertas.com.br) a compariso
 
 I love to talk to people and discuss tech! You can reach me out on any channels below!
 
-- 🔗 My business Site [https://soacheiofertas.com.br](https:www.soacheiofertas.com.br) where all my social networks are located! You can reach me anywhere over there!
+- 🔗 My business Site (https:www.soacheiofertas.com.br) where all my social networks are located! You can reach me anywhere over there!
 - 💬 [Telegram](https://t.me/soacheiofertas)
 - 📷 [Instagram](https://instagram.com/soacheiofertas)
 - 🖥️ [Facebook](https://www.facebook.com/soacheiofertas)
