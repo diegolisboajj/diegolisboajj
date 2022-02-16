@@ -35,6 +35,7 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 - 💬 [Telegram](https://t.me/soacheiofertas)
 - 📷 [Instagram](https://instagram.com/soacheiofertas)
 - 🖥️ [Facebook](https://www.facebook.com/soacheiofertas)
+- 🖥️ [Twitter](https://twitter.com/soacheiofertas)
 - 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCgiiE6LLXOfmt9XEp6HVFow)
 - 📧 You can also send me an [email](mailto:diego.giglioli@gmail.com)
 
