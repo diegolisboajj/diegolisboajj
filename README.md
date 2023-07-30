@@ -38,6 +38,9 @@ I love to talk to people and discuss tech! You can reach me out on any channels 
 - 🖥️ [Twitter](https://twitter.com/soacheiofertas)
 - 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UCgiiE6LLXOfmt9XEp6HVFow)
 - 📧 You can also send me an [email](mailto:diego.giglioli@gmail.com)
+- 
+
+<img src="https://gist.github.com/diegolisboajj/b06f06d5c81f7f93c935d769bc1100db/raw/ef870b114d2ec5739e59898f5041d383fe9ac588/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966.gif"/>
 
 ## ⚡ Fun facts
 
